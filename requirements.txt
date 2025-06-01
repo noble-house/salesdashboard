@@ -8,3 +8,4 @@ weasyprint
 jinja2
 beautifulsoup4
 xhtml2pdf
+prophet
