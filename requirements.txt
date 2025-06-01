@@ -9,4 +9,5 @@ jinja2
 beautifulsoup4
 xhtml2pdf
 prophet
-dotenv
+python-dotenv
+openpyxl
