@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas
+matplotlib
+plotly
+scikit-learn
+openai>=1.0.0
+weasyprint
+jinja2
+beautifulsoup4
+xhtml2pdf
